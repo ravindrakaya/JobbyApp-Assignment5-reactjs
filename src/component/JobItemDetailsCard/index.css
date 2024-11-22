@@ -1,0 +1,60 @@
+.job-failure-view {
+  height: 500px;
+  width: 600px;
+}
+.job-failure-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.job-description-detail-container {
+  background-color: #202020;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 30px;
+}
+.logo-text {
+  color: #f1f5f9;
+  font-size: 25px;
+  margin-top: 20px;
+}
+.star-job-icon-container {
+  display: flex;
+  align-items: center;
+  margin-top: -20px;
+}
+.title-img {
+  height: 80px;
+  width: 80px;
+}
+.company-logo-container {
+  display: flex;
+  align-items: center;
+}
+.job-logo-text-container {
+  margin-left: 20px;
+}
+.anchor-el {
+  color: #6366f1;
+  text-decoration: none;
+}
+.description-link-container {
+  display: flex;
+  align-items: center;
+}
+.external-link {
+  color: #6366f1;
+}
+.job-item-detail-description-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.title-life-img {
+  height: 200px;
+  width: 300px;
+}
+.life-at-company-container {
+  display: flex;
+}

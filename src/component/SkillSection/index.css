@@ -1,0 +1,15 @@
+.skill-container {
+  list-style-type: none;
+  display: flex;
+  align-content: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.name-el {
+  color: #f1f5f9;
+  margin-left: 15px;
+}
+.skill-list-container {
+  display: flex;
+  align-items: center;
+}

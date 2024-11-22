@@ -1,0 +1,11 @@
+.job-item-details-container {
+  min-height: 100vh;
+  padding: 20px;
+  background-color: #000000;
+}
+.job-item-details-list-container {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
